@@ -95,7 +95,7 @@ we could find the `h5` element with `document.getElementById('greeting')`. Notic
 
 **Try it out!**
 
-Open up your web inspector (command+option+I on OS X) and find an element on the page — make note of its `id`. Then open up your console, type `document.getElementById({theIdYouTookNoteOf})`, and check out your handy dandy DOM node. Try changing a few of its properties!
+Open up your web inspector (command+option+j on OS X) and find an element on the page — make note of its `id`. Then open up your console, type `document.getElementById({theIdYouTookNoteOf})`, and check out your handy dandy DOM node. Try changing a few of its properties!
 
 #### `document.getElementsByClassName()`
 
@@ -189,3 +189,5 @@ Obviously, this way of accessing that text isn't fully generic, but it does a go
 ## Resources
 
 - [MDN - Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/the-dom-is-a-tree'>The DOM is a Tree</a> on Learn.co and start learning to code for free.</p>
