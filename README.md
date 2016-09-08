@@ -99,7 +99,7 @@ Open up your web inspector (command+option+j on OS X) and find an element on the
 
 #### `document.getElementsByClassName()`
 
-This method, as its name implies, finds elements by their `className`. Unlike `id`, `className` does not need to be unique; as such, this method returns an HTMLCollection (basically an list of DOM nodes — note that it is _not_ an array, even though it has a `length` property) of all the elements with the given class. You can iterate over an HTMLCollection with a simple `for` loop.
+This method, as its name implies, finds elements by their `className`. Unlike `id`, `className` does not need to be unique; as such, this method returns an HTMLCollection (basically a list of DOM nodes — note that it is _not_ an array, even though it has a `length` property) of all the elements with the given class. You can iterate over an HTMLCollection with a simple `for` loop.
 
 Given the following DOM tree
 
