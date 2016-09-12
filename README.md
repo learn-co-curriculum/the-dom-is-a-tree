@@ -128,7 +128,7 @@ Inspect the web page again, this time making note of a className. Get all elemen
 
 #### `document.getElementsByTagName()`
 
-If you don't know an element's ID but you do know its tag name (the tag name is the main thing between the `<>`, e.g., `'div'`, `'span'`, `'h1'`, etc.). Since tag names aren't unique, this method returns an HTMLCollection of 0 to many nodes with the given tag.
+Suppose you don't know an element's ID but you do know its tag name (the tag name is the main thing between the `<>`, e.g., `'div'`, `'span'`, `'h1'`, etc.). Since tag names aren't unique, this method returns an HTMLCollection of 0 to many nodes with the given tag.
 
 **Try it out!**
 
