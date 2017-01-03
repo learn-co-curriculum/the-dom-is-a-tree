@@ -15,9 +15,9 @@ Well, yes, metaphorically.
 
 Trees make a good metaphor for the DOM because we intuitively understand how we might traverse them. Starting at the roots, one can climb up the tree and out to the farthest — and thinnest — branches.
 
-The thicker a branch is, the strong its connections are: the more it holds within it.
-
-Likewise, the thinner a branch is, the less it holds inside.
+The thicker a branch is, the stronger its connections are; the more it holds within it.
+ 
+Likewise, the thinner a branch is, the less it holds inside. 
 
 The DOM works basically the same way, except we usually talk about the root as being at the top of the DOM and the leaves being the most deeply nested HTML elements. So basically, we can imagine a tree turned on its head.
 
