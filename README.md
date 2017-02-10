@@ -91,7 +91,7 @@ This method provides the quickest access to a node, but it requires that we know
 </div>
 ```
 
-we could find the `h5` element with `document.getElementById('greeting')`. Notice how the `id` that we pass to `getElementById` is identical to the `id` in `<h5 id="greeting>`. We can assign properties to HTML nodes (or elements) simply by including them between the `<>` tags at the start of the element (so not in the `</h5>` tag, in this case).
+we could find the `h5` element with `document.getElementById('greeting')`. Notice how the `id` that we pass to `getElementById` is identical to the `id` in `<h5 id="greeting">`. We can assign properties to HTML nodes (or elements) simply by including them between the `<>` tags at the start of the element (so not in the `</h5>` tag, in this case).
 
 **Try it out!**
 
