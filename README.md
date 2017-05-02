@@ -42,8 +42,6 @@ Practically speaking, the DOM begins at `<html>`, but we should think carefully 
 We would have a tree that looks like
 
 ``` shell
-        body
-        /  \
       div   div
       /      \
      p        p
