@@ -95,7 +95,7 @@ we could find the `h5` element with `document.getElementById('greeting')`. Notic
 
 **Try it out!**
 
-Open up your web inspector (command+option+j on OS X) and find an element on the page — make note of its `id`. Then open up your console, type `document.getElementById({theIdYouTookNoteOf})`, and check out your handy dandy DOM node. Try changing a few of its properties!
+Open up your web inspector (command+option+j on OS X) and find an element on the page — make note of its `id`. Then open up your console, type `document.getElementById('theIdYouTookNoteOf')`, and check out your handy dandy DOM node. Try changing a few of its properties!
 
 #### `document.getElementsByClassName()`
 
