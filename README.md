@@ -68,11 +68,13 @@ Pretty simple, right? Similarly, if we had a DOM subtree that looked like
 We could simply treat it as the tree
 
 ``` shell
-      div
-     /   \
-    h1   h5
-   /       \
-"Hello!"  "Sup?"
+					 div
+				  /   \
+				div   div
+			 /         \
+	 	h1          h5
+		 /             \
+	"Hello!"       "Sup?"
 ```
 
 ### Finding a Node
