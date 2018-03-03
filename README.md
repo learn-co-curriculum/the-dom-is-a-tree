@@ -140,7 +140,7 @@ Explore the DOM in console by typing `document.getElementsByTagName('div')`. Rem
 
 What if we know next to nothing about an element? Or what if we're just interested in finding out more about the child nodes of a given element? This is where our knowledge of trees and nested data structures comes in handy!
 
-Given the following DOM tree (which you can find in `index.html` — feel free to open the file up in your browser to play along!)
+Given the following DOM tree (which you can find in `index.html` — feel free to open the file up [in your browser](https://learn-co-curriculum.github.io/the-dom-is-a-tree/) to play along!)
 
 ``` html
 <main>
